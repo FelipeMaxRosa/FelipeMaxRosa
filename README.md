@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Felipe
 #### Development
-![Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSZYgLiQeBKuwaOSCGVYBlwFfqv4JDIBrBUNRjuKRjYrQPLqdscCvLX8KwkqInJCWyg&usqp=CAU)
+![Development](https://c1.wallpaperflare.com/preview/14/432/956/laptop-computer-dark-room.jpg)
 
 I'm from Brazil, I'm 36 and I have been work with development since 2019.
 I really enjoy learn more, studying something new that can help my job on the projects that I am involved, help team members, giving some feedback or learn with them.
