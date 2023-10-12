@@ -7,7 +7,7 @@ Currently I am a front-end developer working with React.js, TS and libraries lik
 I am studing Node.js with Nest.js and Java SpringBoot.
 
 <br>
-![](https://c1.wallpaperflare.com/preview/14/432/956/laptop-computer-dark-room.jpg)
+![Development](https://c1.wallpaperflare.com/preview/14/432/956/laptop-computer-dark-room.jpg)
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FelipeMaxRosa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
