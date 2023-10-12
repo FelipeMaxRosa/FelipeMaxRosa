@@ -9,3 +9,9 @@ I am studing Node.js with Nest.js and Java SpringBoot.
 
 
 Skills: React / JS / TypeScript / HTML / CSS
+
+- 🔭 I’m currently working on Domo Inc. as Front-end Software Engineer https://www.domo.com/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FelipeMaxRosa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/felipemaxrosa/)  
+
