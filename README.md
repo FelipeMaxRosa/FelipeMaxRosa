@@ -7,6 +7,7 @@ I really enjoy learn more, studying something new that can help my job on the pr
 Currently I am a front-end developer working with React.js, TS and libraries like Redux, Styled Components, Material UI, Jest (Unit Tests and Cypress (E2E Tests) and I am studying Software Architecture to achieve a knowledge on back-end stuff, and gain more knowledge on how all the things since the scratch works or should work.
 I am studing Node.js with Nest.js and Java SpringBoot.
 
+<br>
 <div style="display: inline_block">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,7 +16,7 @@ I am studing Node.js with Nest.js and Java SpringBoot.
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-<br>
+
 <br>
 <div> 
   <a href = "mailto:felipemax.suporteti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
